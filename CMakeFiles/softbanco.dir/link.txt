@@ -1,0 +1,1 @@
+/usr/bin/c++  -lpqxx -lpq CMakeFiles/softbanco.dir/view/main.cpp.o -o softbanco  -lpqxx -lpq 
